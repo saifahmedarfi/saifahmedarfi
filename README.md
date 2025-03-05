@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saifahmedarfi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a musician and a Computer Science Engineering student 
+- 🌱 I’m indulging into web development and software development 
+
+  
 
 <!---
 saifahmedarfi/saifahmedarfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
