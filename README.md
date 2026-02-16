@@ -1,3 +1,5 @@
+![](assets/introgif.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on QML<br><br>🌱 I’m currently learning Quantum Edge Computing(QEC)<br><br>❓ Ask me about anything related to Docker & Kubernetes – Containerization & orchestration for edge deployment<br><br>⚡ Fun fact: Quantum entanglement is so weird that some philosophers call it “spooky action at a distance” making reality itself a debate between particles… and the mind that observes them.<br><br>
 
