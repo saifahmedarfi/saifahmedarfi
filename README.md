@@ -2,6 +2,22 @@
 🔭 I’m currently working on QML<br><br>🌱 I’m currently learning Quantum Edge Computing(QEC)<br><br>❓ Ask me about anything related to Docker & Kubernetes – Containerization & orchestration for edge deployment<br><br>⚡ Fun fact: Quantum entanglement is so weird that some philosophers call it “spooky action at a distance” making reality itself a debate between particles… and the mind that observes them.<br><br>
 
 
+## 🔬 Areas of Interest
+
+![AI Systems](https://img.shields.io/badge/Artificial%20Intelligence-AI%20Systems-blue?style=for-the-badge&logo=artificial-intelligence) 
+![Quantum ML](https://img.shields.io/badge/Quantum-Enhanced%20ML-purple?style=for-the-badge&logo=quantumcomputing) 
+![Info Retrieval](https://img.shields.io/badge/Automated-Knowledge%20%26%20Information%20Retrieval-orange?style=for-the-badge&logo=searchengin) 
+![Edge Computing](https://img.shields.io/badge/Edge%20Computing-Distributed%20Architectures-teal?style=for-the-badge) 
+![ML in Natural Sciences](https://img.shields.io/badge/Machine%20Learning-Applications%20in%20Natural%20Sciences-green?style=for-the-badge) 
+![Computational Chemistry](https://img.shields.io/badge/Computational%20Chemistry-ML%20Integration-yellow?style=for-the-badge) 
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-Augmentation%20Techniques-red?style=for-the-badge) 
+![LLM Development](https://img.shields.io/badge/Large%20Language%20Models-Development-pink?style=for-the-badge) 
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Autonomous%20Agents-lightblue?style=for-the-badge) 
+![AI Drug Discovery](https://img.shields.io/badge/AI-Driven%20Drug%20Discovery%20Platforms-darkgreen?style=for-the-badge) 
+![Full-Stack Engineering](https://img.shields.io/badge/Agentic-Full-Stack%20Software%20Engineering-darkblue?style=for-the-badge)
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saifahmedarfi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifarfii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifarfi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifahmedarfi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifarfi1971@gmail.com) 
 
